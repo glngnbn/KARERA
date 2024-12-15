@@ -18,7 +18,7 @@
 ## **📹 III. Video Demonstration**
 Experience PINDOT in action! Watch the video below to see how it works:
 
-[Video Demonstration](https://drive.google.com/file/d/1bCKzEduGCRNmorQ_gpcnfvDQUBGHBJ5l/view?usp=sharing)
+[Video Demonstration](https://drive.google.com/file/d/1I8G2C9VPxdcUcYbiu-nfT0CauY3pZwmZ/view?usp=sharing)
 
 ---
 
